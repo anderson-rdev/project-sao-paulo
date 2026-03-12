@@ -28,7 +28,7 @@
 - **Timeline** histórica dos momentos mais marcantes do clube
 - **Design temático** nas cores oficiais do São Paulo FC (`#e30613`, `#0a0a0a`, `#f5f5f0`)
 - **Totalmente responsivo** — mobile, tablet e desktop
-- **Zero dependências de back-end** — arquivo HTML único
+- **Zero dependências de back-end** — arquivo divido em HTML, CSS e JavaScript
 
 ---
 
@@ -73,10 +73,10 @@ saopaulo-fc/
 
 ```bash
 # Clone o repositório
-git clone https://github.com/seu-usuario/saopaulo-fc.git
+git clone https://github.com/anderson-rdev/project-sao-paulo.git
 
 # Abra no navegador
-cd saopaulo-fc
+cd project-sao-paulo
 open index.html
 ```
 
